@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 1d758d5c4ca056a40be8c51757b808fa
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: attachi
+    100002: attachi 1
+    100004: attachi 2
+    100006: attachi 3
+    100008: back_wing
+    100010: back_wing 1
+    100012: back_wing 2
+    100014: back_wing 3
+    100016: body1
+    100018: front_wing
+    100020: front_wing 1
+    100022: front_wing 2
+    100024: front_wing 3
+    100026: joint
+    100028: joint 1
+    100030: joint 2
+    100032: joint_
+    100034: middlewing
+    100036: middlewing 1
+    100038: middlewing 2
+    100040: middlewing 3
+    100042: //RootNode
+    100044: wing
+    100046: wing 1
+    100048: wing 2
+    100050: wing 3
+    100052: wings
+    100054: wings1
+    100056: wings2
+    100058: wings3
+    100060: wings4
+    400000: attachi
+    400002: attachi 1
+    400004: attachi 2
+    400006: attachi 3
+    400008: back_wing
+    400010: back_wing 1
+    400012: back_wing 2
+    400014: back_wing 3
+    400016: body1
+    400018: front_wing
+    400020: front_wing 1
+    400022: front_wing 2
+    400024: front_wing 3
+    400026: joint
+    400028: joint 1
+    400030: joint 2
+    400032: joint_
+    400034: middlewing
+    400036: middlewing 1
+    400038: middlewing 2
+    400040: middlewing 3
+    400042: //RootNode
+    400044: wing
+    400046: wing 1
+    400048: wing 2
+    400050: wing 3
+    400052: wings
+    400054: wings1
+    400056: wings2
+    400058: wings3
+    400060: wings4
+    2100000: body
+    2100002: red
+    2300000: attachi
+    2300002: attachi 1
+    2300004: attachi 2
+    2300006: attachi 3
+    2300008: body1
+    2300010: front_wing
+    2300012: front_wing 1
+    2300014: front_wing 2
+    2300016: front_wing 3
+    2300018: joint
+    2300020: joint 1
+    2300022: joint 2
+    2300024: joint_
+    2300026: middlewing
+    2300028: middlewing 1
+    2300030: middlewing 2
+    2300032: middlewing 3
+    2300034: wing
+    2300036: wing 1
+    2300038: wing 2
+    2300040: wing 3
+    3300000: attachi
+    3300002: attachi 1
+    3300004: attachi 2
+    3300006: attachi 3
+    3300008: body1
+    3300010: front_wing
+    3300012: front_wing 1
+    3300014: front_wing 2
+    3300016: front_wing 3
+    3300018: joint
+    3300020: joint 1
+    3300022: joint 2
+    3300024: joint_
+    3300026: middlewing
+    3300028: middlewing 1
+    3300030: middlewing 2
+    3300032: middlewing 3
+    3300034: wing
+    3300036: wing 1
+    3300038: wing 2
+    3300040: wing 3
+    4300000: body1
+    4300002: wing
+    4300004: attachi
+    4300006: middlewing
+    4300008: front_wing
+    4300010: joint_
+    4300012: wing
+    4300014: attachi
+    4300016: middlewing
+    4300018: front_wing
+    4300020: joint
+    4300022: wing
+    4300024: attachi
+    4300026: middlewing
+    4300028: front_wing
+    4300030: joint
+    4300032: wing
+    4300034: attachi
+    4300036: middlewing
+    4300038: front_wing
+    4300040: joint
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 535fa294a786faf48b633545b1d50bbe
+timeCreated: 1535134554
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextWave: {instanceID: 0}
+  - waveText: {fileID: 114614432645086376, guid: 45ee6520f73b9f4488915f8e9c3542f9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
